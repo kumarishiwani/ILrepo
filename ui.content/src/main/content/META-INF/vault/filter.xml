@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/idealake" mode="merge"/>
+    <filter root="/content/idealake" mode="merge"/>
+    <filter root="/content/dam/idealake/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/idealake" mode="merge"/>
+</workspaceFilter>

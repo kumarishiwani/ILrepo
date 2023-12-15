@@ -1,0 +1,3 @@
+{
+  "sling.filter.pattern": "/content/idealake/.*?/(category-page|product-page)"
+}
